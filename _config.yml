@@ -3,7 +3,6 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-<<<<<<< HEAD
 title: Jini's BLOG
 subtitle: '병아리 개발자의 blog'
 description: '성장하는 개발자'
@@ -15,19 +14,6 @@ timezone: 'Asia/Seoul'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: http://Jini-Eun.github.io
-=======
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
-
-# URL
-## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
->>>>>>> 3584732e03db8e10049909f9d0ba4bf147aac244
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
