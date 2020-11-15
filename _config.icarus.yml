@@ -217,36 +217,28 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Jini-Eun
         # Author title
-        author_title: Your title
+        author_title: Eun Jin Kim
         # Author's current location
-        location: Your location
+        location: Asia/Seoul
         # URL or path to the avatar image
-        avatar: 
+        avatar: /images/logo.svg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: 'https://github.com/ppoffice'
+        follow_link: 'https://github.com/jini-eun'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/ppoffice'
+                url: 'https://github.com/jini-eun'
             Facebook:
                 icon: fab fa-facebook
                 url: 'https://facebook.com'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+            
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -261,8 +253,8 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+            Naver: 'https://www.naver.com'
+            Google: 'https://google.com'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
