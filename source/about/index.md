@@ -9,4 +9,8 @@ widgets:
 ---
 
 ## Intro.
-안녕하세요.
+
+title: Jini's BLOG
+subtitle: '병아리 개발자의 blog'
+description: '성장하는 개발자'
+keywords: programming, android, web
