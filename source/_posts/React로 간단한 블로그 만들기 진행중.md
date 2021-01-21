@@ -5,5 +5,9 @@ tags: [react, 리액트, 깃허브, 웹]
 categories: [react web]
 ---
 
-## react로 간단한 블로그 만들기 진행중이다.
+### react로 간단한 블로그 만들기 진행중이다.
 vscode, react, javascript
+
+#### JiniBini - JBlog
+간단한 blog 형태의 웹페이지
+react, js 이용
